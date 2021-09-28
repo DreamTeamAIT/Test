@@ -1,2 +1,2 @@
 # Test
-This only to test a repository!!!
+This is only to test a repository!!!
